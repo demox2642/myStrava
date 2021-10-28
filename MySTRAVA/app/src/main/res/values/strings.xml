@@ -8,4 +8,5 @@
     <string name="password">password</string>
     <string name="login">Login</string>
     <string name="logon">Logon</string>
+    <string name="auth_canceled">You are not logged in! The application will not work without authorization!</string>
 </resources>
